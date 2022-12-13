@@ -29,8 +29,8 @@
 
 #### If you want to build it inside prepared environment, you can use Dockerfile
 
-Note that dreambooth-spotty uses nvidia/cuda:11.7.1-cudnn8-runtime-ubuntu20.04 base image.
-To build xformers you will use nvidia/cuda:11.7.1-cudnn8-devel-ubuntu20.04 base image.
+Note that dreambooth-spotty uses <code>nvidia/cuda:11.7.1-cudnn8-runtime-ubuntu20.04</code> base image.
+To build xformers you will use <code>nvidia/cuda:11.7.1-cudnn8-devel-ubuntu20.04</code> base image.
 
 * Build docker image
   ```shell
