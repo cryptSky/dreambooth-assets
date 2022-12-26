@@ -2,7 +2,7 @@
 ### This is repo contains assets for dreambooth-spotty repo.
 
 * Precompiled xformers wheel for dreambooth-spotty
-* Currently only V100 GPUs are supported
+* Currently only V100 and T4 GPUs are supported
 * If you another GPU below are instructions how to build xformers for your GPU 
 
 ### Building xformers wheel
